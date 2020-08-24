@@ -22,6 +22,5 @@ int main ()
     {
         printf("\nBoth the strings are different.");
     }
-    
     return 0;
 }
