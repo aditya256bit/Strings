@@ -3,7 +3,8 @@
 
 int main () 
 {
-    char str1[50], str2[50],result=0;
+    char str1[50], str2[50];
+    int result=0;
    
     printf("\nEnter the String 1 : ");
     gets (str1);
