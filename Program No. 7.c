@@ -17,7 +17,7 @@ int main ()
         }
     }
     
-    for(int i=1 ; i<11 ; i++)
+    for(int i=0 ; i<10 ; i++)
     {
         int result1=strcmp(str0,str1[i]);
         if(result1==0)
