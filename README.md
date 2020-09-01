@@ -1,2 +1,2 @@
-# Strings-in-C
+# Strings
 All problems solved related to strings in C
